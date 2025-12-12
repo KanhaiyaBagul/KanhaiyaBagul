@@ -38,10 +38,11 @@ I’m an IT Engineering student who loves building projects and improving proble
 
 # 🧠 LeetCode Stats  
 <p align="center">
-  <a href="https://leetcode.com/u/Kanhaiya_Bagul/">
-    <img src="https://leetcard.jacoblin.cool/Kanhaiya_Bagul?theme=dark&font=JetBrains+Mono&ext=activity" width="90%" />
+  <a href="https://leetcode.com/kanhaiya_bagul/">
+    <img src="https://leetcard.jacoblin.cool/kanhaiya_bagul?ext=contest" />
   </a>
 </p>
+
 
 ---
 
