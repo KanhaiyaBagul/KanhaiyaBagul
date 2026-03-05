@@ -2,7 +2,7 @@
 I’m an IT Engineering student who loves building projects and improving problem-solving skills. I work with C++, JavaScript, Node.js, Express, MongoDB, HTML, and CSS. I enjoy learning DSA, creating useful apps, and exploring new tech like ML and cloud. Always excited to build, learn, and grow as a developer.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bagul_kanhaiya_5911)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanhaiya__bagul)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanhaiyabagul)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagulkanhaiya60@gmail.com)
 
