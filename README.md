@@ -55,4 +55,8 @@ Currently focused on backend development, system design, and improving problem-s
 
 [![](https://visitcount.itsvg.in/api?id=KanhaiyaBagul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 💭 Learning Journey
+<p align="center">
+  <i>"We don’t understand it until we reach the very end."</i>
+</p>
