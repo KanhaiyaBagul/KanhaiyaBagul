@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m an IT Engineering student who loves building projects and improving problem-solving skills. I work with C++, JavaScript, Node.js, Express, MongoDB, HTML, and CSS. I enjoy learning DSA, creating useful apps, and exploring new tech like ML and cloud. Always excited to build, learn, and grow as a developer.
+I’m an IT Engineering student who enjoys building full stack applications and solving Data Structures and Algorithms problems.  
+I mainly work with JavaScript, Node.js, MongoDB, and Next.js, and I like building tools that solve real-world problems.  
+Currently focused on backend development, system design, and improving problem-solving skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanhaiya__bagul)
