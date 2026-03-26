@@ -29,6 +29,15 @@ I’m an IT Engineering student who loves building projects and improving proble
 
 ---
 
+# 🚀 Featured Projects
+
+| Project         | Status         | Description                                                                                                                                                                  | Tech Stack                                     | Links                                                      |
+| --------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
+| **HackMate AI** | 🚧 In Progress | AI-powered hackathon project execution platform that converts ideas into technical plans, generates tasks, provides AI mentorship, and tracks project progress in real time. | Next.js, Firebase, Gemini AI, Tailwind CSS     | [Repository](https://github.com/KanhaiyaBagul/HactMate-AI) |
+| **TripLedger**  | 🚧 In Progress | Smart travel expense manager with automated settlement engine, real-time syncing, authentication, and analytics dashboard for managing group trip expenses.                  | Next.js, Supabase, PostgreSQL, Tailwind CSS    | [Repository](https://github.com/KanhaiyaBagul/TripLedger)  |
+| **LinkStash**   | ✅ Completed    | AI-powered bookmark manager Chrome extension that automatically categorizes and organizes saved links with smart search and cross-device synchronization.                    | JavaScript, Firebase, Firestore, OpenRouter AI | [Repository](https://github.com/KanhaiyaBagul/Link-Stach)  |
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KanhaiyaBagul&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KanhaiyaBagul&theme=highcontrast&hide_border=false)<br/>
@@ -44,12 +53,7 @@ I’m an IT Engineering student who loves building projects and improving proble
 </p>
 
 
----
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=KanhaiyaBagul&icon=0&color=0)](https://visitcount.itsvg.in)
 
