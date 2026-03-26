@@ -42,6 +42,15 @@ Currently focused on backend development, system design, and improving problem-s
 
 
 ---
+# 🏆 Achievements
+
+- 🥉 **3rd Place Winner – Hack AI Thon (NKOCOE)**  
+  Built an AI-based project during the hackathon and secured 3rd position as part of a team.
+
+- 🌍 **Top 20 Contributor – Open Source Global Connect (OSGC)**  
+  Recognized among the top contributors out of 4000+ participants for open source contributions.
+
+  
 
 # 🧠 LeetCode Stats  
 <p align="center">
