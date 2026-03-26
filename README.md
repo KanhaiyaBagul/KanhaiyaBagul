@@ -38,10 +38,6 @@ I’m an IT Engineering student who loves building projects and improving proble
 | **LinkStash**   | ✅ Completed    | AI-powered bookmark manager Chrome extension that automatically categorizes and organizes saved links with smart search and cross-device synchronization.                    | JavaScript, Firebase, Firestore, OpenRouter AI | [Repository](https://github.com/KanhaiyaBagul/Link-Stach)  |
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KanhaiyaBagul&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KanhaiyaBagul&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KanhaiyaBagul&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
