@@ -55,7 +55,7 @@ Currently focused on backend development, system design, and improving problem-s
 # 🧠 LeetCode Stats  
 <p align="center">
   <a href="https://leetcode.com/kanhaiya__bagul/">
-    <img src="https://leetcard.jacoblin.cool/kanhaiya_bagul?ext=contest" />
+    <img src="https://leetcard.jacoblin.cool/kanhaiya__bagul?ext=contest" />
   </a>
 </p>
 
